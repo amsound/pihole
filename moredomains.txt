@@ -6,5 +6,3 @@ c5adds.ott.skymedia.co.uk
 p.videologygroup.com
 securecdn.videologygroup.com
 tom.itv.com
-192.168.0.2 2a7e9.v.fwmrm.net
-192.168.0.2 2356e.v.fwmrm.net
