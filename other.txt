@@ -1,5 +1,5 @@
 # Blocking Lists
-c5adds.ott.skymedia.co.uk
+c5ads.ott.skymedia.co.uk
 p.videologygroup.com
 securecdn.videologygroup.com
 
