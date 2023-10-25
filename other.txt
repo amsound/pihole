@@ -9,10 +9,14 @@ cdn.ss.anno.channel4.com
 toots-a.akamaihd.net
 trk-euwest.tidaltv.com
 
+# Channel 5
+2a7e9.v.fwmrm.net
+2356e.v.fwmrm.net
+
+# TBC
 # tom.itv.com
 # api-itv-hub.conductrics.com
 # api.itv
 # buzz.itv.com
-# 2a7e9.v.fwmrm.net
-# 2356e.v.fwmrm.net
+
 
