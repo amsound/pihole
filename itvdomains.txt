@@ -1,5 +1,5 @@
 # ITV Player Blocking
 mp.adverts.itv.com
-recommendations.prd.user.itv.com
+# recommendations.prd.user.itv.com
 ar.prd.content.itv.com
 toots-a.akamaihd.net
