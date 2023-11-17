@@ -11,11 +11,3 @@ cdn.http.anno.channel4.com
 cdn.ss.anno.channel4.com
 toots-a.akamaihd.net
 trk-euwest.tidaltv.com
-
-# TBC
-# tom.itv.com
-# api-itv-hub.conductrics.com
-# api.itv
-# buzz.itv.com
-
-
