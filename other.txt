@@ -1,13 +1,8 @@
-# Blocking Lists
 c5ads.ott.skymedia.co.uk
 p.videologygroup.com
 securecdn.videologygroup.com
 2a7e9.v.fwmrm.net
 2356e.v.fwmrm.net
 slb-barb-poolb05.2cnt.net
-
-ads-pres.channel4.com
-cdn.http.anno.channel4.com
-cdn.ss.anno.channel4.com
 toots-a.akamaihd.net
 trk-euwest.tidaltv.com
